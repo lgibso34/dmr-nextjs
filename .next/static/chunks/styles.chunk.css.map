@@ -1,0 +1,1 @@
+{"version":3,"file":"static/chunks/styles.chunk.css","sources":["webpack:///./styles/global.scss"],"sourcesContent":["#root body a {\n  text-decoration: none;\n  color: green;\n  margin: 0 16px;\n}\n"],"mappings":"AAAA;AACA;AACA;AACA;;","sourceRoot":""}
